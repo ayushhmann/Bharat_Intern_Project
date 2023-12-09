@@ -1,3 +1,3 @@
 # Bharat_Intern_Project
 
-This is bharat intern project 
+THIS IS BHARAT INTERN PROJECT .
